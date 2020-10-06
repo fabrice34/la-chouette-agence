@@ -602,6 +602,7 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
+#bloc-5-cta h2{position: relative;}
 h3 {
     font-size: 15px;
     text-transform: uppercase;
@@ -905,4 +906,22 @@ h4 {
      a[data-lightbox]:hover::before {
         left:50%;
     }
+    #bloc-4-portfolio article
+    {
+     margin-top: 40px;
+    }
+    #bloc-4-portfolio article h3
+    {
+     margin-top: 30px;
+    }
+    #bloc-4-portfolio article p
+    {
+     margin-bottom: 30px;
+    }
+    .row h2{margin-bottom: -30px;}
+    #bloc-5-cta 
+    {
+        margin-top: -60px;
+    }
+   
 }
